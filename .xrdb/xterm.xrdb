@@ -6,17 +6,17 @@
    Updated:  2004-10-11
 
    This file is released under the GNU General Public License.
-  
+
    This file is free software; you can redistribute it and/or
    modify it under the terms of the GNU General Public License as
    published by the Free Software Foundation; either version 2, or (at
    your option) any later version.
-  
+
    This file is distributed in the hope that it will be useful,
    but WITHOUT ANY WARRANTY; without even the implied warranty of
    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
    General Public License for more details.
-  
+
    To receive a copy of the GNU General Public License, go to
    <http://www.gnu.org/licenses/#GPL> or write to the Free Software
    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
@@ -80,7 +80,7 @@ XTerm*saveLines:               4096
 XTerm*visualBell:              true
 
 XTerm*scrollTtyOutput:        false
- 
+
 /* Normally, you should not have to edit anything below.  */
 
 #ifdef FONT
