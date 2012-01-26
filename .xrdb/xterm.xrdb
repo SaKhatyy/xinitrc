@@ -132,6 +132,7 @@ XTerm*color15:                 COLOR_TERM_WHITE
  * Fix ctrl-h. Needed for weird xterm/tmx compatibility with apps.
  * For my specific case, <C-h> was passed to vim as backspace, thus preventing
  * the key sequence from being re-bound.
+ * See: http://www.ibb.net/~anne/keyboard.html
  */
 *VT100.Translations: #override \
         <Key>BackSpace: string(0x7F)\n\
